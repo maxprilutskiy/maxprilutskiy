@@ -14,14 +14,14 @@ export default function Head() {
       <meta property="og:url" content="https://maxprilutskiy.com/" />
       <meta property="og:title" content="Max Prilutskiy" />
       <meta property="og:description" content="Max Prilutskiy is a product engineer and entrepreneur focused on building products that create a lasting, positive impact. Follow @MaxPrilutskiy on social." />
-      <meta property="og:image" content="/og/logo.png" />
+      <meta property="og:image" content="https://maxprilutskiy.com/og/logo.png" />
 
       {/* Twitter */}
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:url" content="https://maxprilutskiy.com/" />
       <meta property="twitter:title" content="Max Prilutskiy" />
       <meta property="twitter:description" content="Max Prilutskiy is a product engineer and entrepreneur focused on building products that create a lasting, positive impact. Follow @MaxPrilutskiy on social." />
-      <meta property="twitter:image" content="/og/logo.png" />
+      <meta property="twitter:image" content="https://maxprilutskiy.com/og/logo.png" />
 
 
       {/* Favicons */}
