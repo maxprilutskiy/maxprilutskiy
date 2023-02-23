@@ -58,7 +58,7 @@ export default function Home() {
     return (
       <section className="mx-auto">
         <p className='mb-4 text-gray-400 font-semibold'>Recent jobs</p>
-        <div className="p-4 border border-zinc-800 rounded-lg shadow-2xl shadow-yellow-600">
+        <div className="p-4 border border-zinc-800 rounded-lg shadow-lg">
           <div className='flex flex-row gap-4 items-center'>
             <div>
               <a
