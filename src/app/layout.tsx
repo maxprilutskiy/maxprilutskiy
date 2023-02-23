@@ -1,5 +1,6 @@
 import '@/styles/global.css'
 import Link from 'next/link'
+import { AnalyticsWrapper } from '@/components/analytics'
 import { HiOutlineExternalLink } from 'react-icons/hi'
 
 export default function RootLayout({
@@ -31,6 +32,7 @@ export default function RootLayout({
         </nav>
         <main className='grow container max-w-sm sm:max-w-3xl mx-auto'>
           {children}
+          <AnalyticsWrapper />
         </main>
         <footer className='container max-w-sm sm:max-w-3xl mx-auto'>
           <p className='pb-6 pt-20 text-center text-gray-400 text-sm'>
