@@ -78,7 +78,32 @@ export default function Home() {
               <div className='mb-0.5'>Engineering Manager</div>
               <div className='flex justify-between'>
                 <div className='text-gray-400 text-sm'>Typeform</div>
-                <span className='text-gray-400 text-sm'>2020 - Present</span>
+                <span className='text-gray-400 text-sm'>2020 - 2023</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="mb-2" />
+        <div className="p-4 border border-zinc-800 rounded-lg shadow-lg">
+          <div className='flex flex-row gap-4 items-center'>
+            <div>
+              <a
+                href="https://embedry.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <div
+                  width={48}
+                  className="bg-zinc-700 rounded-lg"
+                  alt="Embedry logo placeholder"
+                />
+              </a>
+            </div>
+            <div className='grow'>
+              <div className='mb-0.5'>Co-Founder</div>
+              <div className='flex justify-between'>
+                <div className='text-gray-400 text-sm'>Embedry</div>
+                <span className='text-gray-400 text-sm'>2023 - Present</span>
               </div>
             </div>
           </div>
