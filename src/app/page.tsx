@@ -95,7 +95,6 @@ export default function Home() {
                 <div
                   style={{ width: 48, height: 48 }}
                   className="bg-zinc-700 rounded-lg"
-                  alt="Embedry logo placeholder"
                 />
               </a>
             </div>
