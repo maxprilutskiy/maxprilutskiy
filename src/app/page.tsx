@@ -58,56 +58,68 @@ export default function Home() {
     return (
       <section className="mx-auto">
         <p className='mb-4 text-gray-400 font-semibold'>Recent jobs</p>
-        <div className="p-4 border border-zinc-800 rounded-lg shadow-lg">
-          <div className='flex flex-row gap-4 items-center'>
-            <div>
-              <a
-                href="https://www.typeform.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Image
-                  width={48}
-                  src={typeform}
-                  className="rounded-lg"
-                  alt="Typeform logo"
-                />
-              </a>
-            </div>
-            <div className='grow'>
-              <div className='mb-0.5'>Engineering Manager</div>
-              <div className='flex justify-between'>
-                <div className='text-gray-400 text-sm'>Typeform</div>
-                <span className='text-gray-400 text-sm'>2020 - 2023</span>
-              </div>
-            </div>
-          </div>
-        </div>
+        {renderEmbedryJob()}
         <div className="mb-2" />
-        <div className="p-4 border border-zinc-800 rounded-lg shadow-lg">
-          <div className='flex flex-row gap-4 items-center'>
-            <div>
-              <a
-                href="https://embedry.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <div
-                  style={{ width: 48, height: 48 }}
-                  className="bg-zinc-700 rounded-lg"
-                />
-              </a>
-            </div>
-            <div className='grow'>
-              <div className='mb-0.5'>Co-Founder</div>
-              <div className='flex justify-between'>
-                <div className='text-gray-400 text-sm'>Embedry</div>
-                <span className='text-gray-400 text-sm'>2023 - Present</span>
-              </div>
+        {renderTypeformJob()}
+      </section>
+    );
+  }
+
+  function renderEmbedryJob() {
+    return (
+      <div className="p-4 border border-zinc-800 rounded-lg shadow-lg">
+        <div className='flex flex-row gap-4 items-center'>
+          <div>
+            <a
+              href="https://embedry.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <div
+                style={{ width: 48, height: 48 }}
+                className="bg-zinc-700 rounded-lg"
+              />
+            </a>
+          </div>
+          <div className='grow'>
+            <div className='mb-0.5'>Co-Founder</div>
+            <div className='flex justify-between'>
+              <div className='text-gray-400 text-sm'>Embedry</div>
+              <span className='text-gray-400 text-sm'>2023 - Present</span>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    );
+  }
+
+  function renderTypeformJob() {
+    return (
+      <div className="p-4 border border-zinc-800 rounded-lg shadow-lg">
+        <div className='flex flex-row gap-4 items-center'>
+          <div>
+            <a
+              href="https://www.typeform.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                width={48}
+                src={typeform}
+                className="rounded-lg"
+                alt="Typeform logo"
+              />
+            </a>
+          </div>
+          <div className='grow'>
+            <div className='mb-0.5'>Engineering Manager</div>
+            <div className='flex justify-between'>
+              <div className='text-gray-400 text-sm'>Typeform</div>
+              <span className='text-gray-400 text-sm'>2020 - 2023</span>
+            </div>
+          </div>
+        </div>
+      </div>
     );
   }
 }
