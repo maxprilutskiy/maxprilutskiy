@@ -6,8 +6,8 @@
 
 ### What I'm working on 👨‍💻
 
-* [Change Report](https://github.com/maxprilutskiy/change-report) GitHub Action that generates a report from the recent code changes and posts it on Slack/Discord.
-* [Awesome Side Project](https://github.com/maxprilutskiy/awesome-side-project) - A list of free tools to build side-projects faster.
+* [Change Report](https://github.com/maxprilutskiy/change-report) - GitHub Action that generates a report from the recent code changes and posts it on Slack/Discord.
+* [Awesome Side Project](https://github.com/maxprilutskiy/awesome-side-project) - List of free tools to build side-projects faster.
 
 
 ### Follow me here on GitHub and elsewhere 🌎
