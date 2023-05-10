@@ -1,12 +1,13 @@
 ### Hey, I'm Max! 👋
 
-👨‍💻 Engineering Manager of Channel Experience at [@Typeform](https://github.com/Typeform/) <br>
+✨ Now: Building cool stuff at [@Enprimal](https://github.com/enprimal) <br>
+👨‍💻 Past: Engineering at [@Typeform](https://github.com/Typeform/) <br>
 🇪🇸 Barcelona, Spain <br>
 
 ### What I'm working on 👨‍💻
 
-⌨️ GitHub Action that generates a report from the recent code changes and posts it on Slack/Discord - [Change Report](https://github.com/maxprilutskiy/change-report)
-⌨️ A list of free tools to build side-projects faster - [Awesome Side Project](https://github.com/maxprilutskiy/awesome-side-project) <br>
+* GitHub Action that generates a report from the recent code changes and posts it on Slack/Discord - [Change Report](https://github.com/maxprilutskiy/change-report)
+* A list of free tools to build side-projects faster - [Awesome Side Project](https://github.com/maxprilutskiy/awesome-side-project) <br>
 
 
 ### Follow me here on GitHub and elsewhere 🌎
