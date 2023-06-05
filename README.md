@@ -1,6 +1,6 @@
 ### Hey, I'm Max! 👋
 
-✨ Now: Building cool stuff at [@Enprimal](https://github.com/enprimal) <br>
+✨ Now: Co-Founder at a Startup <br>
 👨‍💻 Past: Engineering at [@Typeform](https://github.com/Typeform/) <br>
 🇪🇸 Barcelona, Spain <br>
 
