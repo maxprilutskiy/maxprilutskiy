@@ -1,4 +1,4 @@
-### Hey, I'm Max! 👋
+### Hi, I'm Max! 👋
 
 ✨ Now: Full-time indiehacker
 👨‍💻 Previously: Engineering at [@Typeform](https://github.com/Typeform/) <br>
