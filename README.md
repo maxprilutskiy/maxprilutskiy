@@ -1,6 +1,6 @@
 ### Hi, I'm Max! 👋
 
-✨ Now: Full-time indiehacker
+✨ Now: Full-time indiehacker <br>
 👨‍💻 Previously: Engineering at [@Typeform](https://github.com/Typeform/) <br>
 🇪🇸 Barcelona, Spain <br>
 
