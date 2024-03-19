@@ -1,20 +1,20 @@
-### Hi, I'm Max! 👋
+### hi, i'm max
 
-✨ Now: Hacking on Open-Source, with JavaScript and LLMs <br>
-👨‍💻 Previously: Bootstrapped a SaaS used by [@Shopify](https://github.com/Shopify) (acquired) <br>
+✨ now: hacking on open-source, with javascript and llms <br>
+👨‍💻 past: bootstrapped a saas used by [@shopify](https://github.com/shopify) (acquired) <br>
 
-📍 Barcelona, Spain 🇪🇸 / San Francisco, USA 🇺🇸 <br>
+📍 barcelona, spain 🇪🇸 / san francisco, usa 🇺🇸 <br>
 
-### My recent projects 👨‍💻
+### projects
 
-* [Awesome Side Project](https://github.com/maxprilutskiy/awesome-side-project) - List of free tools to build side-projects faster.
-* [Change Report](https://github.com/maxprilutskiy/change-report) - GitHub Action that generates a report from the recent code changes and posts it on Slack/Discord.
-* [no-expired-todo-comments](https://github.com/maxprilutskiy/eslint-plugin-no-expired-todo-comments) - ESLint plugin to prevent TODO comments with expired dates.
+* [awesome side project](https://github.com/maxprilutskiy/awesome-side-project) - list of free tools to build side-projects faster
+* [change report](https://github.com/maxprilutskiy/change-report) - github action that generates a report from the recent code changes and posts it on slack/discord
+* [no-expired-todo-comments](https://github.com/maxprilutskiy/eslint-plugin-no-expired-todo-comments) - eslint plugin to prevent todo comments with expired dates
 
 
-### My Socials 🌎
+### socials
 
-👈 [GitHub](https://github.com/maxprilutskiy) • 
-✍️ [Substack](https://maxprilutskiy.com) •
-💼 [LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=maxprilutskiy) •
-🐦 [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com&screen_name=MaxPrilutskiy)
+👈 [github](https://github.com/maxprilutskiy) • 
+✍️ [substack](https://maxprilutskiy.com) •
+💼 [linkedin](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=maxprilutskiy) •
+🐦 [twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com&screen_name=MaxPrilutskiy)
