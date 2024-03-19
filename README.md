@@ -1,8 +1,9 @@
 ### Hi, I'm Max! 👋
 
-✨ Now: Full-time indiehacker <br>
-👨‍💻 Previously: Engineering at [@Typeform](https://github.com/Typeform/) <br>
-🇪🇸 Barcelona, Spain <br>
+✨ Now: Hacking on Open-Source, with JavaScript and LLMs <br>
+👨‍💻 Previously: Bootstrapped a SaaS used by [@Shopify](https://github.com/Shopify) (acquired) <br>
+
+📍 Barcelona, Spain 🇪🇸 / San Francisco, USA 🇺🇸 <br>
 
 ### My recent projects 👨‍💻
 
@@ -11,7 +12,7 @@
 * [no-expired-todo-comments](https://github.com/maxprilutskiy/eslint-plugin-no-expired-todo-comments) - ESLint plugin to prevent TODO comments with expired dates.
 
 
-### Follow me here on GitHub and elsewhere 🌎
+### My Socials 🌎
 
 👈 [GitHub](https://github.com/maxprilutskiy) • 
 ✍️ [Substack](https://maxprilutskiy.com) •
