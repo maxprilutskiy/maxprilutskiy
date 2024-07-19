@@ -1,6 +1,6 @@
 ### hi, i'm max
 
-✨ now: hacking on open-source, with javascript and llms <br>
+✨ now: co-founder of [Replexica](https://github.com/replexica/replexica) <br>
 👨‍💻 past: bootstrapped a saas used by [@shopify](https://github.com/shopify) (acquired) <br>
 
 📍 barcelona, spain 🇪🇸 / san francisco, usa 🇺🇸 <br>
