@@ -1,6 +1,6 @@
 ### hi, i'm max
 
-✨ now: co-founder of [Replexica](https://github.com/replexica/replexica) <br>
+✨ now: building [Lingo.dev](https://github.com/lingodotdev/lingo.dev) <br>
 👨‍💻 past: bootstrapped a saas used by [@shopify](https://github.com/shopify) (acquired) <br>
 
 📍 barcelona, spain 🇪🇸 / san francisco, usa 🇺🇸 <br>
